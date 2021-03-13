@@ -1,0 +1,33 @@
+body {
+        background-image: url(depositphotos_10046850-stock-illustration-background-with-dog-paw-print.jpg);
+        background-size: cover;
+        font-family: sans-serif;
+        background-attachment: fixed;
+    font-family: sans-serif;
+    line-height: 1.5;
+  }
+  
+  input,
+  button,
+  textarea {
+    font-family: inherit;
+    padding: 10px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    max-width: 480px;
+    margin: 0 auto;
+  }
+  
+  label {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  
+  textarea {
+    resize: none;
+  }
+  
